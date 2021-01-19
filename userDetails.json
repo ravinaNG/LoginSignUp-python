@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "userName": "Ravina",
+            "password": "@123#wer",
+            "profile": {
+                "description": "I like reading and want to be a Very Good software engenear.",
+                "dob": "13 march 2000",
+                "hobbies": "dancing, reading, watching reality shows",
+                "gender": "Femal"
+            }
+        },
+        {
+            "userName": "Bharti",
+            "password": "hi@123",
+            "profile": {
+                "description": "I like to explore new things and want to make a beautiful home in a extraordinary hill.",
+                "dob": "15 April 1998",
+                "hobbies": "dancing, watching movies",
+                "gender": "Femal"
+            }
+        },
+        {
+            "userName": "Shanti",
+            "password": "@12we",
+            "profile": {
+                "description": "I like cooking and dancing.",
+                "dob": "2 feb 1998",
+                "hobbies": "dancing, make-up",
+                "gender": "Femal"
+            }
+        }
+    ]
+}
